@@ -1,4 +1,4 @@
-[![Go Reference](https://pkg.go.dev/badge/github.com/jbrekelmans/go-url@latest.svg)](https://pkg.go.dev/github.com/jbrekelmans/go-url@latest)
+[![Go Reference](https://pkg.go.dev/badge/github.com/jbrekelmans/go-url.svg)](https://pkg.go.dev/github.com/jbrekelmans/go-url)
 
 # URL validation
 
