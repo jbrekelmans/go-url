@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/jbrekelmans/go-url@latest.svg)](https://pkg.go.dev/github.com/jbrekelmans/go-url@latest)
+
 # URL validation
 
 Comprehensive URL validation suitable for sanitizing/normalizing untrusted inputs.
